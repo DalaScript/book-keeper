@@ -1,0 +1,82 @@
+# Bookmark Keeper | ZTM JS Web Projects Course
+
+**Project 10/20**
+
+---
+
+## 📚 Table of Contents
+
+- [🔎 Overview](#-overview)
+  - [📸 Screenshot](#-screenshot)
+  - [🔗 Links](#-links)
+  - [📌 Features](#-features)
+- [🧠 My process](#-my-process)
+  - [🛠️ Built with](#️-built-with)
+  - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
+  - [🔜 Next Project](#-next-project)
+- [👤 Author](#-author)
+  - [🌐 Connect with Me](#-connect-with-me)
+  - [💻 Coding Profiles](#-coding-profiles)
+
+---
+
+## 🔎 Overview
+
+### 📸 Screenshot
+
+![screenshot of the project's webpage](./assets/screenshot.jpg)
+
+### 🔗 Links
+
+ - [🔴 Live Demo]([project's live demo])
+ - [🗂️ GitHub Repository]([project's repo])
+
+### 📌 Features
+
+ - ✅ [project's features list item]
+
+---
+
+## 🧠 My Process
+
+### 🛠️ Built with
+
+ - [project's tech stack list item]
+
+### 🎓 What I Learned
+
+ - [project's what i learned list item]
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - [previous project's title] | *[Project [part]/20]* → [View Repository]([previous project's repository link])
+
+### 🔜 Next Project
+
+ - [next project's title] | *[Project [part]/20]* → [View Repository]([next project's repository link])
+
+---
+
+## 👤 Author
+
+### 🌐 Connect with Me
+
+ - [Instagram](https://www.instagram.com/DalaScript)
+ - [YouTube](https://www.youtube.com/@DalaScript)
+
+### 💻 Coding Profiles
+
+ - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+ - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+ - [GitHub](https://github.com/DalaScript)
+
+*🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
