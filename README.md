@@ -1,6 +1,8 @@
-# Bookmark Keeper | ZTM JS Web Projects Course
+# Book Keeper | ZTM JS Web Projects Course
 
 **Project 10/20**
+
+**In Process**
 
 ---
 
@@ -29,8 +31,8 @@
 
 ### 🔗 Links
 
- - [🔴 Live Demo]([project's live demo])
- - [🗂️ GitHub Repository]([project's repo])
+ - [🔴 Live Demo](https://dalascript.github.io/book-keeper/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/book-keeper)
 
 ### 📌 Features
 
@@ -42,11 +44,11 @@
 
 ### 🛠️ Built with
 
- - [project's tech stack list item]
+**In Process**
 
 ### 🎓 What I Learned
 
- - [project's what i learned list item]
+**In Process**
 
   > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
   > rather than learning something entirely new.  
@@ -58,11 +60,11 @@
 
 ### 🔙 Previous Project
 
- - [previous project's title] | *[Project [part]/20]* → [View Repository]([previous project's repository link])
+ - Custom Countdown | *[Project 9/20]* → [View Repository](https://github.com/DalaScript/custom-countdown)
 
 ### 🔜 Next Project
 
- - [next project's title] | *[Project [part]/20]* → [View Repository]([next project's repository link])
+  - Video Player | *[Project 11/20]* → [View Repository](https://github.com/DalaScript/video-player)
 
 ---
 
