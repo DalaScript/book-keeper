@@ -43,7 +43,7 @@
  - ✅ Clean modal popup with focus input behavior
  - ✅ Bookmark entries display with favicon and link
  - ✅ One-click deletion for saved bookmarks
- - ✅ Stores bookmarks in localStorage for persistence
+ - ✅ Stores bookmarks in `localStorage` for persistence
  - ✅ Responsive design with mobile support
 
 ---
