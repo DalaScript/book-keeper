@@ -2,7 +2,7 @@
 
 **Project 10/20**
 
-📚 Bookmark App is a simple and stylish web application that allows users to save, view, and delete their favorite websites. Featuring a custom modal form, favicon previews, and persistent storage using localStorage, it's a great project to practice full DOM control and UI feedback. Built as part of the ZTM JavaScript Web Projects Course.
+📚 Book Keeper App is a simple and stylish web application that allows users to save, view, and delete their favorite websites. Featuring a custom modal form, favicon previews, and persistent storage using localStorage, it's a great project to practice full DOM control and UI feedback. Built as part of the ZTM JavaScript Web Projects Course.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 📸 Screenshot
 
-![screenshot of the project's webpage](./assets/screenshot.jpg)
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -84,20 +84,20 @@
 
 ### 🗃️ Useful resources
 
- - [hero patterns](https://heropatterns.com/) - free backgrounds
- - [google fonts](https://fonts.google.com/) - free fonts
- - [fontawesome](https://fontawesome.com/icons?d=gallery&q=close&m=free) - free icons
- - [regexr](https://regexr.com/) - regex playground
- - [CSS vertical-align Property](https://www.w3schools.com/cssref/pr_pos_vertical-align.php)
- - [`<label>`: The Label element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label)
- - [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator)
- - [HTMLFormElement: submit event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
- - [preventDefault() Event Method](https://www.w3schools.com/jsref/event_preventdefault.asp)
- - [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
- - [Window: localStorage property](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
- - [JSON.stringify()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
- - [JSON.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
- - [Array.prototype.splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+ - [Hero Patterns](https://heropatterns.com/) – SVG background patterns for clean UI design
+ - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free) – Free icon library for UI elements
+ - [Google Fonts](https://fonts.google.com/) – Free web fonts for better typography
+ - [RegEx Playground Tool](https://regexr.com/) – Test and learn regular expressions
+ - [W3Schools - Vertical Align Objects](https://www.w3schools.com/cssref/pr_pos_vertical-align.php) – Align inline elements vertically
+ - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp) – Prevent default form or link actions
+ - [MDN - Label](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label) – Label element for form accessibility
+ - [MDN - Ternary Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator) – Short conditional expression syntax
+ - [MDN - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event) – Handle form submissions via JS
+ - [MDN - Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions) – RegEx basics and examples
+ - [MDN - localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) – Store key/value data in browser
+ - [MDN - JSON Stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) – Convert JS to JSON string
+ - [MDN - JSON Parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) – Parse JSON to JS object
+ - [MDN - Array Splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) – Add or remove array items
 
 ---
 
